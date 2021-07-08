@@ -1,0 +1,17 @@
+<style>
+		h1{
+
+			color :red
+
+		}
+
+		#kp{
+			color:blue
+		}
+		p{
+			border: 10px solid  chocolate;
+			border-radius: 20px;
+			margin: 20px 26px 30px 80px;
+			padding: 20px;
+		}
+	</style>
